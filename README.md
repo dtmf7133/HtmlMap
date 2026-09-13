@@ -3,13 +3,13 @@ Html map made easy (by Javascript) - MIT
 
 <html>  
 <head>  
-<title>htmlmap</title>  
+<title>htmlmap</title>   
 
-<script src="/js/htmlmap.js" ref="text/javascript"></script>  
+<script src="/js/htmlmap.js" ref="text/javascript"></script>   
 
-</head>
-<body>
-
+</head>   
+<body>   
+   
 <script>
 
 //HtmlMap.createMap($name, $y, $x, $height, $width, $bg);
