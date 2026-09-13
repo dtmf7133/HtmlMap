@@ -1,7 +1,7 @@
 # HtmlMap
 Html map made easy (by Javascript) - MIT
 
-//HtmlMap.createMap($name, $y, $x, $height, $width, $bg);
+//HtmlMap.createMap($name, $y, $x, $height, $width, $bg);<br>
 HtmlMap.createMap("numode", 0, 0, 500, 500, "url(/res/logot.png)");
 //HtmlMap.createMap($name, $y (%), $x, $height, $width, link, target);
 HtmlMap.addArea("area1", 0, 0, 50, 50, "http://numode.eu", "_blank" );
