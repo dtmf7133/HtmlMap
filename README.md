@@ -5,7 +5,7 @@ Html map made easy (by Javascript) - MIT
 <head>
 <title>htmlmap</title>
 
-<script src="/js/htmlmap.js" ref="text/javascript"></script>
+<script src="/js/htmlmap.js" ref="text/javascript"></script>  
 
 </head>
 <body>
