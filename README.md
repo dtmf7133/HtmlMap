@@ -1,9 +1,9 @@
 # HtmlMap
 Html map made easy (by Javascript) - MIT
 
-<html>
-<head>
-<title>htmlmap</title>
+<html>  
+<head>  
+<title>htmlmap</title>  
 
 <script src="/js/htmlmap.js" ref="text/javascript"></script>  
 
