@@ -31,7 +31,7 @@ function HTMLMap() {
          document.body.appendChild(map);
    }
 
-   function myaddArea(name,x,y,h,w,cmd,t)     
+   function myaddArea(name,x,y,h,w,cmd,t,ttl=name)     
    {
          area = document.createElement("div");
          area.id = name;
@@ -43,6 +43,8 @@ function HTMLMap() {
          area.style.height = h + "%";
          area.style.width = w + "%";
          area.style.cursor = "pointer";
+
+         area.title = ttl;
 
          this.map.appendChild(area);
 
